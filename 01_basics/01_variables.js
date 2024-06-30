@@ -11,7 +11,9 @@ accountEmail = "test@gmail.com"
 accountPassword = "444444"
 accountCity = "Banglore"
 
-
+/* prefer not to use var
+bcz of issue in block scope and functional scope
+*/
 
 // console.log(accountNumber);
 
